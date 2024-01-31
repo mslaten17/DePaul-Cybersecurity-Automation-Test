@@ -1,2 +1,2 @@
 # DePaul-Cybersecurity-Automation-Test
-For My Advanced Cybersecurity Automation Class
+This is a sample readme 
